@@ -1,5 +1,7 @@
 # Welcome to RoboCup Small Size League Freiburg
 
+Start of the RoboCup small size league documentation for the Neurorobotics Lab.
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
