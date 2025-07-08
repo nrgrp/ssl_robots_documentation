@@ -1,0 +1,10 @@
+site_name: My Docs
+site_url: https://example.com
+nav:
+    - Home: index.md
+    - Lab Course: lab_course.md
+    - Software: software.md
+    - Hardware: hardware.md
+    - Robot Assembly: robot_assembly.md
+    - Field Setup: field_setup.md
+theme: readthedocs
