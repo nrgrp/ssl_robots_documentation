@@ -1,5 +1,8 @@
 # RoboCup Small Size League
 
-![Picture of a small size league robot](assets/SSL_robot.png)
+![Image title](assets/SSL_robot.png){ width="300" }
+/// caption
+Image caption
+///
 
 ## Rules
